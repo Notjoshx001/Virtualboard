@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.2.3",
   "downloadUrl": "https://github.com/Notjoshx001/Virtualboard/releases/download/1.2.3/Release.zip",
-  "exeUrl": "https://github.com/Notjoshx001/Virtualboard/releases/download/1.2.3/Virtualboard.exe",
+  "ExePath": "https://github.com/Notjoshx001/Virtualboard/releases/download/1.2.3/Virtualboard.exe",
   "changelog": "upcoming"
 }
